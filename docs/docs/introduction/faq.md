@@ -18,7 +18,7 @@ Please see the <a href="https://github.com/erxes/erxes/blob/master/LICENSE.md" t
 Yes, we’re open-source software, our license is **<a href="https://github.com/erxes/erxes/blob/master/LICENSE.md">AGPLv3</a>** with **<a href="https://github.com/erxes/erxes/tree/master/ee">Enterprise Edition</a>**, which means some of our plugins and code for SaaS are require prior agmeenent and kept private under Enterpise Edition. But the rest are all free for you to install and use for you. 
 Please read more about our license **<a href="https://erxes.io/blog/posts/changing-the-license-to-agplv3-with-the-enterprise-edition">here</a>**.
 
-However, we provides 3 different packages for our clients, which include:
+However, we provide 3 different packages for our clients, which include:
 
 - A self-hosted version that is suitable for SaaS providers or enterprises operating in highly regulated industries, like insurance, mobile network providers, banking and etc. As it is self-hosted, you must ensure you and your organization have a skilled DevOps person/team to look after the server to maintain the smooth operation of your erxes operating system daily. As an erxes user, you can choose between using the Community Edition, which is entirely free, or paid plan of the Enterprise Edition.
 
